@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/price-card-ui-SsS1bUHnnA](https://your-solution-url.com)
 - Live Site URL: [https://jackysmith040.github.io/Price_Card/]
 
 ## My process
